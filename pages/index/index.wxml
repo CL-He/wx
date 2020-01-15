@@ -1,0 +1,6 @@
+<view class="new">
+<view class="item">微信</view>
+<view class="item">通讯录</view>
+<view class="item">发现</view>
+<view class="item">我</view>
+</view>

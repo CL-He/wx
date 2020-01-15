@@ -1,0 +1,11 @@
+.new{
+  display: flex
+}
+.item{
+  flex: 1;
+  text-align: center;
+  margin-top: 471px;
+  height: 30PX;
+  background-color: rgb(197, 197, 197);
+  line-height: 30px;
+}
